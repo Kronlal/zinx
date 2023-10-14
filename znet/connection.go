@@ -14,6 +14,7 @@ import (
 	"github.com/aceld/zinx/zlog"
 	"github.com/aceld/zinx/zpack"
 	"github.com/gorilla/websocket"
+	"github.com/lim-yoona/tcpack"
 
 	"github.com/aceld/zinx/ziface"
 )
